@@ -2,6 +2,8 @@
 
 > A simple dice game.
 
+![screenshot](images/screenshot.png)
+
 Click the button for random roll's to find the winner.
 
 ## Built With
