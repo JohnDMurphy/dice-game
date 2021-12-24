@@ -3,6 +3,7 @@
 > A simple dice game.
 
 ![screenshot](images/screenshot.png)
+![screenshot](images/mobileScreenshot.png)
 
 Click the button for random roll's to find the winner.
 
