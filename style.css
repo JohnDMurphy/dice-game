@@ -1,0 +1,50 @@
+html,
+body {
+	margin: 0;
+	font-size: 1.8rem;
+	font-family: 'Shizuru', cursive;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-around;
+	width: 100vw;
+	height: 100vh;
+	background-color: rgb(6, 6, 26);
+	color: rgb(33, 173, 52);
+}
+
+.main {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	width: 35%;
+}
+
+h2 {
+	text-align: center;
+	font-size: 1.2rem;
+}
+
+footer {
+	font-size: 0.5rem;
+}
+
+img {
+	width: 105%;
+}
+
+.btn {
+	font-size: 0.9rem;
+	font-family: 'Shizuru', cursive;
+	font-weight: 900;
+	letter-spacing: 2px;
+	padding: 0.4rem 1.2rem;
+	color: rgb(33, 173, 52);
+	background-color: rgba(255, 0, 0, 0.1);
+	border: 0;
+	border-radius: 50px 50px 50px 50px;
+	margin-top: 1.8rem;
+}
